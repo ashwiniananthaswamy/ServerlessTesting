@@ -1,7 +1,7 @@
 [
   {
   "ParameterKey": "SourceRepo",
-  "ParameterValue": "automated-ui-testing"
+  "ParameterValue": "ServerlessTesting"
   },
   {
   "ParameterKey": "ApprovalTopic",
